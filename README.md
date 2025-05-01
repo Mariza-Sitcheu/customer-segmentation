@@ -26,7 +26,7 @@ project/
 │
 ├── src/                     # Source-Code
 │   ├── preprocess.py        # Laden & RFM-Erstellung
-│   ├── segment.py           # Clustering-Funktionen
+│   ├── segment.py           # Clustering-Funktion
 │   ├── visualize.py         # Visualisierungen (PCA-Plot etc.)
 │   └── evaluate.py          # Elbow, Silhouette Score, Bewertung
 │
