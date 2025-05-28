@@ -41,7 +41,7 @@ project/
 
 ```bash
 # Repository klonen
-git clone https://github.com/dein-nutzername/customer-segmentation.git
+git clone https://github.com/Mariza-Sitcheu/customer-segmentation.git
 cd customer-segmentation
 
 # Virtuelle Umgebung erstellen (optional)
